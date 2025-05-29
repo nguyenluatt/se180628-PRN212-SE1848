@@ -1,0 +1,14 @@
+D:\New folder\PRN212-SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.exe
+D:\New folder\PRN212-SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.deps.json
+D:\New folder\PRN212-SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.runtimeconfig.json
+D:\New folder\PRN212-SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.dll
+D:\New folder\PRN212-SE1848\FirstDegree\bin\Debug\net9.0\FirstDegree.pdb
+D:\New folder\PRN212-SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\PRN212-SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.AssemblyInfoInputs.cache
+D:\New folder\PRN212-SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.AssemblyInfo.cs
+D:\New folder\PRN212-SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.csproj.CoreCompileInputs.cache
+D:\New folder\PRN212-SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.dll
+D:\New folder\PRN212-SE1848\FirstDegree\obj\Debug\net9.0\refint\FirstDegree.dll
+D:\New folder\PRN212-SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.pdb
+D:\New folder\PRN212-SE1848\FirstDegree\obj\Debug\net9.0\FirstDegree.genruntimeconfig.cache
+D:\New folder\PRN212-SE1848\FirstDegree\obj\Debug\net9.0\ref\FirstDegree.dll
